@@ -1,6 +1,6 @@
 {
   "name": "sanity-plugin-note-field",
-  "version": "V3",
+  "version": "3.0.0",
   "description": "Display notes in your schemas. Ready for Sanity V3.",
   "keywords": [
     "sanity",
